@@ -48,13 +48,13 @@ export default function Hero() {
 
   return (
     <section style={{
-      minHeight: '100vh',
-      display: 'flex',
-      flexDirection: 'column',
-      alignItems: 'center',
-      justifyContent: 'center',
-      padding: '80px 2rem 4rem',
-      gap: '3rem',
+      minHeight: 'auto',
+display: 'flex',
+flexDirection: 'column',
+alignItems: 'center',
+justifyContent: 'center',
+padding: '100px 2rem 4rem',
+gap: '3rem',
     }}>
 
       {/* Title */}

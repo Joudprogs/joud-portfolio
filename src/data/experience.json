@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1pass",
+    "role": "Associate Product Manager",
+    "company": "1Pass",
+    "type": "Full-time",
+    "period": "May 2025 – Present",
+    "tags": ["PM", "QA"],
+    "points": [
+      "Owned end-to-end delivery of 2 product epics — requirements, wireframing, PRD, and stakeholder alignment",
+      "Created and maintained 400+ user stories, tasks, and bug reports in Jira",
+      "Ran Agile sprints and tracked team progress to ensure timely delivery",
+      "Contributed to quarterly roadmap prioritization with senior leadership",
+      "Conducted beta testing sessions with real end-users before every release",
+      "Reviewed each release against written requirements and acceptance criteria"
+    ]
+  },
+  {
+    "id": "jeddah",
+    "role": "Software Engineer Intern",
+    "company": "Jeddah Municipality",
+    "type": "Internship",
+    "period": "Jun – Aug 2024",
+    "tags": ["ANALYSIS", "QA"],
+    "points": [
+      "Built Power BI dashboards to analyze citizen violation data",
+      "Conducted functional and performance testing on new government services",
+      "Documented technical reports across multiple project initiatives"
+    ]
+  }
+]
