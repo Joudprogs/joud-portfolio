@@ -1,6 +1,8 @@
 import type { Metadata } from 'next'
 import { JetBrains_Mono } from 'next/font/google'
 import Navbar from '@/src/components/layout/Navbar'
+import Footer from '@/src/components/layout/Footer'
+
 import './globals.css'
 
 const jetbrainsMono = JetBrains_Mono({
@@ -24,6 +26,7 @@ export default function RootLayout({
       <body className={jetbrainsMono.variable}>
         <Navbar />
         {children}
+        <Footer />
       </body>
     </html>
   )
