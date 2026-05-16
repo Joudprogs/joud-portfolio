@@ -9,7 +9,7 @@ const tagColors: Record<string, string> = {
 export default function Experience() {
   return (
     <section style={{
-      padding: '6rem 2rem',
+      padding: '3rem 2rem',
       maxWidth: '860px',
       margin: '0 auto',
     }}>
