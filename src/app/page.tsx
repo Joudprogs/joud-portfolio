@@ -1,7 +1,9 @@
+import Hero from '@/src/components/home/Hero'
+
 export default function Home() {
   return (
     <main>
-      <h1>Joud Alshehri</h1>
+      <Hero />
     </main>
-  );
+  )
 }
