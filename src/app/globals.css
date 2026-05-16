@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323:wght@400&display=swap');
+
+:root {
+  --bg-deep:      #0a0b1a;
+  --surface-1:    #1a1d3a;
+  --surface-2:    #262a4f;
+  --surface-3:    #353a66;
+  --line-soft:    #2a2e54;
+  --fg-1:         #f4f4ff;
+  --fg-2:         #c5c8e8;
+  --fg-3:         #8a8fb8;
+  --pm-blue:      #4ea8ff;
+  --qa-magenta:   #ff5cc8;
+  --coin-gold:    #ffd23f;
+  --pipe-green:   #5bd35b;
+  --mushroom-red: #ff5c5c;
+  --sky-cyan:     #5cdcff;
+  --magic-purple: #b066ff;
+  --font-display: 'Press Start 2P', monospace;
+  --font-pixel:   'VT323', monospace;
+  --font-mono:    'JetBrains Mono', monospace;
+  --shadow-1:     4px 4px 0 0 #000;
+  --shadow-2:     6px 6px 0 0 #000;
+  --glow-gold:    0 0 12px rgba(255,210,63,0.55);
+  --glow-blue:    0 0 12px rgba(78,168,255,0.55);
+  --glow-magenta: 0 0 12px rgba(255,92,200,0.55);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-deep);
+  background-image: radial-gradient(circle at 1px 1px, var(--line-soft) 1px, transparent 0);
+  background-size: 16px 16px;
+  color: var(--fg-1);
+  font-family: 'JetBrains Mono', monospace;
+  -webkit-font-smoothing: antialiased;
+  image-rendering: pixelated;
+}

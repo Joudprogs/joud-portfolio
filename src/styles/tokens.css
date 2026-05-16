@@ -1,0 +1,52 @@
+:root {
+  /* Backgrounds */
+  --bg-deep:        #0a0b1a;
+  --bg-base:        #11132a;
+  --surface-1:      #1a1d3a;
+  --surface-2:      #262a4f;
+  --surface-3:      #353a66;
+  --line-soft:      #2a2e54;
+
+  /* Text */
+  --fg-1:           #f4f4ff;
+  --fg-2:           #c5c8e8;
+  --fg-3:           #8a8fb8;
+  --fg-dim:         #5b5f87;
+
+  /* Accents */
+  --pm-blue:        #4ea8ff;
+  --pm-blue-deep:   #1f6fc9;
+  --qa-magenta:     #ff5cc8;
+  --qa-magenta-deep:#c92a93;
+  --coin-gold:      #ffd23f;
+  --coin-gold-deep: #c99a16;
+  --pipe-green:     #5bd35b;
+  --pipe-green-deep:#2a9a2a;
+  --mushroom-red:   #ff5c5c;
+  --sky-cyan:       #5cdcff;
+  --magic-purple:   #b066ff;
+
+  /* Fonts */
+  --font-display:   'Press Start 2P', monospace;
+  --font-pixel:     'VT323', monospace;
+  --font-mono:      'JetBrains Mono', monospace;
+
+  /* Shadows */
+  --shadow-1:       4px 4px 0 0 #000;
+  --shadow-2:       6px 6px 0 0 #000;
+  --shadow-3:       8px 8px 0 0 #000;
+  --shadow-press:   1px 1px 0 0 #000;
+
+  /* Glows */
+  --glow-gold:    0 0 12px rgba(255,210,63,0.55), 0 0 24px rgba(255,210,63,0.25);
+  --glow-blue:    0 0 12px rgba(78,168,255,0.55),  0 0 24px rgba(78,168,255,0.25);
+  --glow-magenta: 0 0 12px rgba(255,92,200,0.55),  0 0 24px rgba(255,92,200,0.25);
+  --glow-green:   0 0 12px rgba(91,211,91,0.55),   0 0 24px rgba(91,211,91,0.25);
+  --glow-purple:  0 0 12px rgba(176,102,255,0.55), 0 0 24px rgba(176,102,255,0.25);
+
+  /* Animation */
+  --dur-fast:     80ms;
+  --dur-base:     160ms;
+  --dur-slow:     240ms;
+  --ease-snap:    cubic-bezier(0.4, 0, 0.6, 1);
+}
