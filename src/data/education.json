@@ -1,20 +1,20 @@
 [
   {
     "id": "uj",
-    "degree": "Bachelor of Science in Software Engineering",
+    "degree": "Bachelor's Degree in Software Engineering",
     "institution": "University of Jeddah",
     "faculty": "Computer Science & Engineering",
-    "period": "2021 – 2025",
-    "gpa": "4.91 / 5.0",
+    "period": "Aug 2021 – Jan 2025",
+    "gpa": "4.91 / 5",
     "honor": "First Class Honors",
     "courses": [
+      "Project Management",
       "Software Requirements Engineering",
-      "Software Testing & Quality",
+      "Software Testing",
+      "Web Development",
       "Software Quality & Metrics",
       "Human-Computer Interaction",
-      "Project Management",
       "Software Design Patterns",
-      "Web Development",
       "Software Security"
     ]
   }

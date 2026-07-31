@@ -1,0 +1,7 @@
+{
+  "product": ["Jira", "Confluence", "Trello", "Miro", "Figma"],
+  "qa": ["Test case design", "API testing", "UI testing", "Regression testing", "Bug tracking", "Automation testing"],
+  "ai": ["Figma Make", "Lovable", "Replit", "Claude"],
+  "automation": ["Make", "Zapier", "n8n"],
+  "technical": ["React", "Angular", "Python", "Firebase", "Power BI", "GitHub"]
+}

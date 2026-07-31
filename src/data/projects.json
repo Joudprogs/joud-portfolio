@@ -1,0 +1,30 @@
+[
+  {
+    "id": "jobseek",
+    "title": "Jobseek",
+    "subtitle": "Web Development",
+    "tags": ["PM", "DEV"],
+    "description": "Defined requirements, designed user flows, and developed a web platform connecting graduates with employers, simplifying the job-matching experience."
+  },
+  {
+    "id": "yaseer",
+    "title": "YASEER School Bus System",
+    "subtitle": "Senior Project",
+    "tags": ["PM", "DEV"],
+    "description": "Smart attendance, emergency alerts & route optimization for safer transport."
+  },
+  {
+    "id": "onalert",
+    "title": "OnAlert — MS Next Medical Hackathon",
+    "subtitle": "Hackathon",
+    "tags": ["PM", "DEV"],
+    "description": "Mobile app using AI-driven analysis to deliver initial triage for optic neuritis/MS patients, helping prevent relapse."
+  },
+  {
+    "id": "odus",
+    "title": "Testing ODUS Website using Cypress",
+    "subtitle": "Software Testing Project",
+    "tags": ["QA"],
+    "description": "Conducted end-to-end functional testing on ODUS university software with Cypress. Identified 3 high-risk failures out of 12 test cases."
+  }
+]

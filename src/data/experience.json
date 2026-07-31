@@ -1,31 +1,60 @@
 [
   {
-    "id": "1pass",
+    "id": "1pass-apm",
     "role": "Associate Product Manager",
     "company": "1Pass",
     "type": "Full-time",
-    "period": "May 2025 – Present",
+    "period": "Jan 2026 – Present",
+    "tags": ["PM"],
+    "points": [
+      "Manage end-to-end delivery of 4 concurrent, complex product initiatives, shipping ahead of standard timelines",
+      "Wrote 400+ user stories translating stakeholder needs and feedback into actionable, delivery-ready specs",
+      "Led third-party integration discussions resulting in 2 live integrations, with 2 more in progress and 1 in planning",
+      "Analyzed user feedback to identify product gaps and prioritize fixes and enhancements",
+      "Ran Agile/Scrum sprints, including planning, backlog grooming, and stakeholder reporting",
+      "Collaborated with design teams to refine user flows and improve overall user experience",
+      "Identified functional and experience gaps across the app and drove them to resolution"
+    ]
+  },
+  {
+    "id": "1pass-qa",
+    "role": "QA Specialist",
+    "company": "1Pass",
+    "type": "Full-time",
+    "period": "Jan 2026 – Present",
+    "tags": ["QA"],
+    "points": [
+      "Reported 300+ bug tickets, the majority high-risk, catching issues both pre-release and in live production",
+      "Designed test coverage per task scope — edge cases, in-scope cases, regression, and happy-path validation",
+      "Used AI tools to automate testing workflows, cutting manual testing time by 20–40%",
+      "Contributed to a ~15% increase in sprint productivity through faster, more efficient testing cycles",
+      "Performed API, UI, CRUD, and regression testing across web and mobile platforms",
+      "Wrote clear, structured bug reports and tracked issues through resolution with developers"
+    ]
+  },
+  {
+    "id": "1pass-intern",
+    "role": "Product & Project Management Intern",
+    "company": "1Pass",
+    "type": "Internship",
+    "period": "May 2025 – Dec 2025",
     "tags": ["PM", "QA"],
     "points": [
-      "Owned end-to-end delivery of 2 product epics — requirements, wireframing, PRD, and stakeholder alignment",
-      "Created and maintained 400+ user stories, tasks, and bug reports in Jira",
-      "Ran Agile sprints and tracked team progress to ensure timely delivery",
-      "Contributed to quarterly roadmap prioritization with senior leadership",
-      "Conducted beta testing sessions with real end-users before every release",
-      "Reviewed each release against written requirements and acceptance criteria"
+      "Supported release management, including documentation and release notes",
+      "Participated in design and product review meetings",
+      "Conducted beta testing and user acceptance testing sessions with real customers"
     ]
   },
   {
     "id": "jeddah",
-    "role": "Software Engineer Intern",
+    "role": "Software Engineer",
     "company": "Jeddah Municipality",
-    "type": "Internship",
-    "period": "Jun – Aug 2024",
-    "tags": ["ANALYSIS", "QA"],
+    "type": "Summer Training",
+    "period": "Jun 2024 – Aug 2024",
+    "tags": ["DEV", "QA"],
     "points": [
-      "Built Power BI dashboards to analyze citizen violation data",
-      "Conducted functional and performance testing on new government services",
-      "Documented technical reports across multiple project initiatives"
+      "Built Power BI dashboards analyzing citizen violation data to support municipal decision-making",
+      "Tested newly released services and documented findings across project initiatives"
     ]
   }
 ]
